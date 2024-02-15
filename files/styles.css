@@ -205,15 +205,6 @@ body {
   
   
 
-/* .typing {
-  grid-area: 1 / 1 / 3 / 3;
-}
-.coding {
-  grid-area: 1 / 1 / 2 / 2;
-}
-.chillies {
-  grid-area: 1 / 2 / 2 / 3;
-}
-.hot-wings {
-  grid-area: 2 / 1 / 3 / 2;
-} */
+.halfboiledegg{
+  padding : 5 px;
+  margin  : 5px;}
